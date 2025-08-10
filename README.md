@@ -32,7 +32,7 @@ To train and test the AI Voice Detection model on your local machine, follow the
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/WaliMuhammadAhmad/AIVoice-Detection.git
+   git clone https://github.com/DevPioneers1/AI-Audio-Detector.git
    ```
 
 3. **Install Dependencies:**
@@ -58,6 +58,7 @@ docker compose up
    python predict.py
    ```
    predict.py will ask to enter the path of the *.wav file. Enter the file path for prediction.
+
 
 
 
