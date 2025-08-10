@@ -60,17 +60,5 @@ docker compose up
    predict.py will ask to enter the path of the *.wav file. Enter the file path for prediction.
 
 
-## Acknowledgements
 
-I would like to extend my heartfelt gratitude to the following individuals for their invaluable contribution to the dataset used in this project:
 
-- Hassan Abbas
-- Himanshu
-
-## Contributing
-
-Contributions are welcome! Whether it's improving model performance, or adding more data, your input is valued. Feel free to open issues or pull requests.
-
-## Contact
-
-For any questions or collaborations, you can reach me at [wali.muhammad.ahmad@gmail.com].
